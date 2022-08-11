@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "test-8122f": {
+      "hosting": {
+        "fireshitt": [
+          "test-8122f"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "test-8122f"
+  }
+}
